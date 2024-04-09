@@ -1,0 +1,26 @@
+[{
+  "_id": {
+    "$oid": "6612c6822d11935ad18bf26b"
+  },
+  "accountId": {
+    "$oid": "66126197f05e989beb39ae74"
+  },
+  "items": [
+    {
+      "productId": {
+        "$oid": "661267ba13cae1723f75ba90"
+      },
+      "quantity": 2,
+      "_id": {
+        "$oid": "6612c6822d11935ad18bf26c"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-04-07T16:14:58.857Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-07T16:14:58.857Z"
+  },
+  "__v": 0
+}]

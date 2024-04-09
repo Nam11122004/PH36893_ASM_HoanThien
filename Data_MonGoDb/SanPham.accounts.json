@@ -1,0 +1,42 @@
+[{
+  "_id": {
+    "$oid": "66126197f05e989beb39ae74"
+  },
+  "email": "namok@gmail.com",
+  "password": "12345",
+  "createdAt": {
+    "$date": "2024-04-07T09:04:23.276Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-07T09:04:23.276Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "661264ec586543b9b503fddb"
+  },
+  "email": "namnhes@gmail.com",
+  "password": "Nam12356",
+  "createdAt": {
+    "$date": "2024-04-07T09:18:36.258Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-07T09:18:36.258Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6614931fc82ceddf50ca6f3f"
+  },
+  "email": "Namden@gmail.com",
+  "password": "2004",
+  "createdAt": {
+    "$date": "2024-04-09T01:00:15.067Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-09T01:00:15.067Z"
+  },
+  "__v": 0
+}]

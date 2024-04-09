@@ -1,0 +1,176 @@
+[{
+  "_id": {
+    "$oid": "661267ba13cae1723f75ba90"
+  },
+  "tensp": "Táo đỏ",
+  "mota": "Táo đỏ Hà Tây",
+  "gia": 3000,
+  "hinhanh": "https://i.pinimg.com/564x/3f/a2/87/3fa287c717ff7a7102e6d872c68b5bda.jpg",
+  "createdAt": {
+    "$date": "2024-04-07T09:30:34.230Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-07T09:30:34.230Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6612682213cae1723f75ba92"
+  },
+  "tensp": "Chuối",
+  "mota": "TChuối Ta",
+  "gia": 3000,
+  "hinhanh": "https://i.pinimg.com/564x/48/18/e6/4818e6c6ca6d5f691a314cc43b97a1d6.jpg",
+  "createdAt": {
+    "$date": "2024-04-07T09:32:18.195Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-07T09:32:18.195Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66127950f69a5fe869b2a918"
+  },
+  "tensp": "Nho",
+  "mota": "Nho Tím",
+  "gia": 3000,
+  "hinhanh": "https://i.pinimg.com/564x/79/4b/4c/794b4cf3e2bdbd0e62fe605457b7f67b.jpg",
+  "createdAt": {
+    "$date": "2024-04-07T10:45:36.939Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-07T10:45:36.939Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6612797cf69a5fe869b2a91a"
+  },
+  "tensp": "Dâu",
+  "mota": "Dâu Tây Nhé",
+  "gia": 3000,
+  "hinhanh": "https://i.pinimg.com/564x/40/bf/f9/40bff970623330d94c5e249fc30e59f6.jpg",
+  "createdAt": {
+    "$date": "2024-04-07T10:46:20.524Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-07T10:46:20.524Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "661489a1bcae5999a17d0535"
+  },
+  "tensp": "Cheri",
+  "mota": "Cheri Đỏ",
+  "gia": 3000,
+  "hinhanh": "https://i.pinimg.com/564x/de/08/d9/de08d96ce47faa03729bda85156b0744.jpg",
+  "createdAt": {
+    "$date": "2024-04-09T00:19:45.390Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-09T00:19:45.390Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "661489c3bcae5999a17d0537"
+  },
+  "tensp": "Dưa Hấu",
+  "mota": "Dưa Hấu nhé",
+  "gia": 3000,
+  "hinhanh": "https://i.pinimg.com/564x/47/d0/e0/47d0e0b05ff4b4994b05fd36c12ea9d1.jpg",
+  "createdAt": {
+    "$date": "2024-04-09T00:20:19.700Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-09T00:20:19.700Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "661489f5bcae5999a17d0539"
+  },
+  "tensp": "Dưa Chuột",
+  "mota": "Bao Ngon",
+  "gia": 3000,
+  "hinhanh": "https://i.pinimg.com/564x/14/d5/d5/14d5d5072dea5df83890c7698e19afee.jpg",
+  "createdAt": {
+    "$date": "2024-04-09T00:21:09.185Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-09T00:21:09.185Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66148a33bcae5999a17d053b"
+  },
+  "tensp": "Cải Bắp",
+  "mota": "Bao Ngon",
+  "gia": 3000,
+  "hinhanh": "https://i.pinimg.com/564x/22/b5/45/22b5457726c4b9872b0860765344bb6b.jpg",
+  "createdAt": {
+    "$date": "2024-04-09T00:22:11.671Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-09T00:22:11.671Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66148a61bcae5999a17d053d"
+  },
+  "tensp": "Nho",
+  "mota": "Bao Ngon",
+  "gia": 3000,
+  "hinhanh": "https://i.pinimg.com/564x/99/68/66/996866012398bfa012e6868e3a9318b0.jpg",
+  "createdAt": {
+    "$date": "2024-04-09T00:22:57.700Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-09T00:22:57.700Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66148a76bcae5999a17d053f"
+  },
+  "tensp": "Cam",
+  "mota": "Bao Ngon",
+  "gia": 3000,
+  "hinhanh": "https://i.pinimg.com/564x/01/f9/0a/01f90a367906ba88e4fdfcfc7abeaa71.jpg",
+  "createdAt": {
+    "$date": "2024-04-09T00:23:18.966Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-09T00:23:18.966Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66148a97bcae5999a17d0541"
+  },
+  "tensp": "Sung Tím",
+  "mota": "Bao Ngon",
+  "gia": 3000,
+  "hinhanh": "https://i.pinimg.com/736x/6e/ab/80/6eab80755838baad73dbd8d0a9b6d52a.jpg",
+  "createdAt": {
+    "$date": "2024-04-09T00:23:51.270Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-09T00:23:51.270Z"
+  },
+  "__v": 0
+}]
