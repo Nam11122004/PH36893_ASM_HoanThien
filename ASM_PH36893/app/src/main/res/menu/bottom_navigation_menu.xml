@@ -1,0 +1,26 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/navigation_home"
+        android:title="Home"
+        android:icon="@drawable/ic_home"
+        app:showTitle="false" />
+
+    <item
+        android:id="@+id/navigation_cart"
+        android:title="Cart"
+        android:icon="@drawable/ic_cart"
+        app:showTitle="false" />
+
+    <item
+        android:id="@+id/navigation_menu"
+        android:icon="@drawable/ic_menu"
+        android:title="Menu"
+        app:showTitle="false" />
+    <item
+        android:id="@+id/navigation_love"
+        android:icon="@drawable/ic_love"
+        android:title="Love"
+        app:showTitle="false"/>
+</menu>

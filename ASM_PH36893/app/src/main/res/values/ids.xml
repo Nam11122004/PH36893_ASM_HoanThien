@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="spDistrict" type="id" />
+    <item name="spWard" type="id" />
+    <item name="spProvince" type="id" />
+</resources>
